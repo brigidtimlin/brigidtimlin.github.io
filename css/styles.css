@@ -1,0 +1,11 @@
+img {
+  border: 4px solid orange;
+  }
+  h1 {color: red;
+  }
+  a {
+    color: magenta;
+  }
+li {
+  list-style-type: square;
+}
